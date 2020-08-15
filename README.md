@@ -33,4 +33,4 @@
 ## Part 3: Deep analysis to determine legitimacy of the employee database
 [Python Analysis Code](sql_challenge_lms.ipynb)
 1. Visualize salary frequency
-![]("/images/salary_freq.png")
+![](images/salary_freq.png)
