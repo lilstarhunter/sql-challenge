@@ -46,11 +46,4 @@
 <img src="images/my_info.png">
 
 
-<div class="alert alert-info">
-
-Clearly someone is playing a prank on me! Now I am questioning everything!!! Suspicious of the dataset
-
->[!WARNING]
->This is a warning
-
-<p class="callout danger">A success message</p>
+_**Clearly someone is playing a prank on me! Now I am questioning everything!!! Suspicious of the dataset**_
