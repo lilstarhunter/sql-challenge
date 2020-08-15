@@ -5,7 +5,7 @@
 ---
 
 ## Part 1: Design tables to hold CSVs and import into PostgreSQL database for future queries
-[Workflow](PH_schema.sql)
+[Workflow](sql_files/PH_schema.sql)
 1. Create database in PostgreSQL 
 2. Create six tables
     - department: information on company departments
@@ -19,7 +19,7 @@
 
 
 ## Part 2: Query the databases for pertinent information about the Pewlett Hackard's employees
-[Workflow](PH_query.sql)
+[Workflow](sql_files/PH_query.sql)
 1. List employee info: employee number, last name, first name, sex, and salary
 2. List employees who were hired in *1986*
 3. List department manager info: department number, department name, the manager's employee number, last name, first name
@@ -31,4 +31,4 @@
 
 
 ## Part 3: Deep analysis to determine legitimacy of the employee database
-Workflow: [Python Analysis Code](sql_challenge_lms.ipynb)
+[Python Analysis Code](sql_challenge_lms.ipynb)
