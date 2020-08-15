@@ -14,3 +14,9 @@ Workflow:
     - employees: provides employee information for all company employees
     - salaries: matches employee number with the employee's salary
     - titles: matches the title with the corresponding title id
+3. Import data
+*See PH_schema.sql for SQL code*
+
+![alt text](https://github.com/lilstarhunter/sql-challenge/sql_challenge_erd.png?raw=true)
+
+#### Part 2: Design tables to hold CSVs and import into PostgreSQL database for future queries
