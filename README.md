@@ -35,7 +35,7 @@
 
 **Used Pandas Profiling Package for quick analyses**
 
-<img src="images/profiles_salary.png", width = 500>
+<img src="images/profiles_salary.png" width = 500>
 
 1. Visualize salary frequency
 
