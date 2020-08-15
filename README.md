@@ -35,9 +35,12 @@
 
 1. Visualize salary frequency
 
-<img src="images/salary_freq.png" width = 100>
+<img src="images/salary_freq.png" width = 500>
 
 
 2. Visualize Average Salary by Job Title
 
-<img src="images/salary_title.png" width = 100>
+<img src="images/salary_title.png" width = 500>
+
+3. Lookup my employee id = 499942
+<img src="images
