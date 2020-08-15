@@ -52,3 +52,5 @@ Clearly someone is playing a prank on me! Now I am questioning everything!!! Sus
 
 >[!WARNING]
 >This is a warning
+
+<p class="callout danger">A success message</p>
