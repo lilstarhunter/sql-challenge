@@ -33,6 +33,10 @@
 ## Part 3: Deep analysis to determine legitimacy of the employee database
 [Python Analysis Code](sql_challenge_lms.ipynb)
 
+**Used Pandas Profiling Package for quick analyses**
+
+<img src="images/profiles_salary.png">
+
 1. Visualize salary frequency
 
 <img src="images/salary_freq.png" width = 500>
