@@ -45,15 +45,10 @@
 3. Lookup my employee id = 499942
 <img src="images/my_info.png">
 
-<div class="panel panel-danger">
-**Danger**
-{: .panel-heading}
-<div class="panel-body">
+
+<div class="alert alert-info">
 
 Clearly someone is playing a prank on me! Now I am questioning everything!!! Suspicious of the dataset
-
-</div>
-</div>
 
 >[!WARNING]
 >This is a warning
