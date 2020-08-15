@@ -15,7 +15,7 @@
     - salaries: matches employee number with the employee's salary
     - titles: matches the title with the corresponding title i
 
-![sql_challenge_erd](https://user-images.githubusercontent.com/47579642/90301349-552c7580-de6d-11ea-89b7-c32f92b9107b.png)
+<img src="images/sql_erd.png">
 
 
 ## Part 2: Query the databases for pertinent information about the Pewlett Hackard's employees
@@ -47,6 +47,3 @@
 
 
 _**Clearly someone is playing a prank on me! Now I am questioning everything!!! Suspicious of the dataset**_
-
-<div class="alert alert-warning" role="alert">
-Clearly someone is playing a prank on me! Now I am questioning everything!!! Suspicious of the dataset
