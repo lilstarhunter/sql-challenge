@@ -34,4 +34,4 @@
 [Python Analysis Code](sql_challenge_lms.ipynb)
 1. Visualize salary frequency
 
-<a href="./html_links/Pewlett Hackard Salaries Report.html" target="_top">Download Page</a>
+[Download Page](./html_links/Pewlett Hackard Salaries Report.html)
