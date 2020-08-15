@@ -28,3 +28,7 @@ Workflow: *See PH_query.sql for SQL code*
 6. List all employees in the *Sales* department: employee number, last name, first name, and department name
 7. List all employes in both the *Sales* and *Development* departments: employee number, last name, first name, and department name
 8. List the frequency count of employees with the *same last name*
+
+
+## Part 3: Deep analysis to determine legitimacy of the employee database
+Workflow: [Python Analysis Code](sql_challenge_lms.ipynb)
