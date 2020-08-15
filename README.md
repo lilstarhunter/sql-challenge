@@ -4,8 +4,8 @@
 
 ---
 
-#### Part 1: Design tables to hold CSVs and import into PostgreSQL database for future queries
-Workflow:
+## Part 1: Design tables to hold CSVs and import into PostgreSQL database for future queries
+Workflow: *See PH_schema.sql for SQL code*
 1. Create database in PostgreSQL 
 2. Create six tables
     - department: information on company departments
@@ -13,10 +13,18 @@ Workflow:
     - dept_manager: matches *manager* employee number with manager's department
     - employees: provides employee information for all company employees
     - salaries: matches employee number with the employee's salary
-    - titles: matches the title with the corresponding title id
-3. Import data
-*See PH_schema.sql for SQL code*
+    - titles: matches the title with the corresponding title i
 
 ![sql_challenge_erd](https://user-images.githubusercontent.com/47579642/90301349-552c7580-de6d-11ea-89b7-c32f92b9107b.png)
 
-#### Part 2: Design tables to hold CSVs and import into PostgreSQL database for future queries
+
+## Part 2: Query the databases for pertinent information about the Pewlett Hackard's employees
+Workflow: *See PH_query.sql for SQL code*
+1. List employee info: employee number, last name, first name, sex, and salary
+2. List employees who were hired in *1986*
+3. List department manager info: department number, department name, the manager's employee number, last name, first name
+4. List employee's department info: employee number, last name, first name, and department name
+5. List employees with first name *Hercules* and last name starting with *B*
+6. List all employees in the *Sales* department: employee number, last name, first name, and department name
+7. List all employes in both the *Sales* and *Development* departments: employee number, last name, first name, and department name
+8. List the frequency count of employees with the *same last name*
