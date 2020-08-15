@@ -32,5 +32,12 @@
 
 ## Part 3: Deep analysis to determine legitimacy of the employee database
 [Python Analysis Code](sql_challenge_lms.ipynb)
+
 1. Visualize salary frequency
-![](images/salary_freq.png)
+
+<img src="images/salary_freq.png" width = 100>
+
+
+2. Visualize Average Salary by Job Title
+
+<img src="images/salary_title.png" width = 100>
