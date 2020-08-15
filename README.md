@@ -17,6 +17,6 @@ Workflow:
 3. Import data
 *See PH_schema.sql for SQL code*
 
-https://github.com/lilstarhunter/sql-challenge/issues/1#issue-679464991
+![sql_challenge_erd](https://user-images.githubusercontent.com/47579642/90301349-552c7580-de6d-11ea-89b7-c32f92b9107b.png)
 
 #### Part 2: Design tables to hold CSVs and import into PostgreSQL database for future queries
